@@ -1,0 +1,9 @@
+{
+    "usernameInput":"//input[@aria-label='Business email']",
+    "passwordInput":"//input[@aria-label='Password']",
+    "LoginPageHeader":"span.form-title",
+    "ForgotPasswordLink":"//a[text()='Forgot password']",
+    "LoginButton":"//span[text()=' LOG IN ']",
+    "SignUpLink":"//span[text()=' SIGN UP ']"
+
+}

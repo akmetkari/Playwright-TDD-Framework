@@ -1,0 +1,14 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Naukri Scrape - Ignored
+Tests/ui/naukri-scrape.spec.ts
+naukri_jobs_*.csv
+job-page.html
+job-page.png

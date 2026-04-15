@@ -1,0 +1,7 @@
+{
+    "Test case 1:Verify cookies pop up is displayed accepted and with valid input login is success": {
+        "expectedHeader": "This website uses cookies",
+        "username": "akshaym9@outlook.com",
+        "password": "Playwright@1890"
+    }
+}

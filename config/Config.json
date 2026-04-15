@@ -1,0 +1,16 @@
+{
+    "app":{
+        "url":"https://accounts.creatio.com/login/alm",
+        "title":"Login - Creatio",
+        "username":"Bharattechacademy5@outlook.com",
+        "password":"BharathTechAcademy#1234"
+    },
+    "api":{
+        "url":"https://profile.creatio.com/ServiceModel/AuthService.svc/Login",
+        "username":""
+    },
+    "db":{
+        "host":"localhost",
+        "port":3306
+    }
+}
