@@ -8,6 +8,9 @@ node_modules/
 /playwright/.auth/
 .env
 
+# Environment secrets - NEVER commit this
+.env
+
 # Naukri Scrape - Ignored
 Tests/ui/naukri-scrape.spec.ts
 naukri_jobs_*.csv
