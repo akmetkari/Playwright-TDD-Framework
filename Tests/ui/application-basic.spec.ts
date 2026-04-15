@@ -1,7 +1,6 @@
-import { test, expect, TestInfo } from '@playwright/test';
+import { test, TestInfo } from '@playwright/test';
 import { cookiesPageSteps } from '../../Page-Objects/Page-steps/cookies-page-steps';
 import { landingPageSteps } from '../../Page-Objects/Page-steps/landing-page-steps';
-
 import data from "../../TestData/data.json";
 import { loginPageSteps } from '../../Page-Objects/Page-steps/login-page-steps';
 
